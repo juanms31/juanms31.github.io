@@ -5,7 +5,7 @@ layout: page
 
 ## Hola! ❤️ Soy Juan Martinez Sanchez y
 
-<img width="420" height="300" src='https://github.com/juanms31/juanms31/blob/main/7.jpg?raw=true' alt='' class='emoji'>
+<img src='https://github.com/juanms31/juanms31/blob/main/7.jpg?raw=true' alt='' class='emoji'>
 
 💻 me encanta la tecnología. **Estudiante** de
 
