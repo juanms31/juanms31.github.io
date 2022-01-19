@@ -3,9 +3,7 @@ title: Sobre mí
 layout: page
 ---
 
-## Hola! ❤️ Soy Juan Martinez Sanchez y
-
-<img height="300" width="420" src='https://github.com/juanms31/juanms31/blob/main/7.jpg?raw=true' alt='' class='emoji'>
+## Hola! ❤️ Soy Juan Martinez Sanchez,
 
 💻 me encanta la tecnología. **Estudiante** de
 
