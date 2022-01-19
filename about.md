@@ -13,7 +13,7 @@ layout: page
 
 🌄 Naturaleza, pasear con mi perrito coco, mientras me tomo un 
 
-☕ [Café calentito.](buymeacoffee.com/juanms31) También me gusta escuchar
+☕ <a href="buymeacoffee.com/juanms31" target="blank">Cafe calentito.</a>  También me gusta escuchar
 
 🌊 Las olas del mar y ver los atardeceres me relajan. Estoy en proceso de aprendizaje en el Desarrollo de Software, 
 
