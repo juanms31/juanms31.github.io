@@ -1,7 +1,9 @@
 toc:
-  - title: HOME
+  - title: Inicio
     url: /
-  - title: ABOUT
-    url: /about
-  - title: PROJECTS
+  - title: Posts
+    url: /posts
+  - title: Proyectos
     url: /projects
+  - title: Sobre mí
+    url: /about
