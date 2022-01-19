@@ -15,7 +15,7 @@ defaults:
       path: _posts
     values:
       layout: post
-      author: Sharad Raj
+      author: Juan Martinez Sanchez
   # - scope:
   #     path: _notes
   #   values:
