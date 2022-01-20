@@ -1,25 +1,25 @@
 skills:
   - level: pro
     title: Python
-    img: /assets/uploads/icons8-python-240.png
+    img: /assets/uploads/icons/icons8-python-240.png
   - level: pro
     title: Java
-    img: /assets/uploads/java.png
+    img: /assets/uploads/icons/java.png
   - level: pro
     title: MySQL
-    img: /assets/uploads/icons8-mysql-logo-250.png
+    img: /assets/uploads/icons/icons8-mysql-logo-250.png
   - level: pro
     title: MongoDB
-    img: /assets/uploads/icons8-mongodb-240.png
+    img: /assets/uploads/icons/icons8-mongodb-240.png
   - level: pro
     title: SQlite
-    img: /assets/uploads/sqlite.png
+    img: /assets/uploads/icons/sqlite.png
   - level: fam
     title: HTML 5
-    img: /assets/uploads/001-html-5.png
+    img: /assets/uploads/icons/001-html-5.png
   - level: fam
     title: CSS
-    img: /assets/uploads/002-css.png
+    img: /assets/uploads/icons/002-css.png
   - level: fam
     title: JavaScript
-    img: /assets/uploads/003-js.png
+    img: /assets/uploads/icons/003-js.png

@@ -3,7 +3,7 @@ title: Sobre mí
 layout: page
 ---
 
-## ❤️ Hola! Soy Juan Martinez Sanchez,
+## ❤️ Hola! Soy Juan Martínez Sánchez,
 
 💻 me encanta la tecnología. **Estudiante** de
 
