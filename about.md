@@ -7,7 +7,7 @@ layout: page
 
 💻 me encanta la tecnología. **Estudiante** de
 
-📚 Desarrollo de Aplicaciones Multimedia en
+📚 Desarrollo de Aplicaciones Multiplataforma en
 
 📍 Almería, Spain. Me encanta la 
 
